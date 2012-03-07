@@ -1,0 +1,163 @@
+# data/fixtures/fixtures.yml
+XArticle:
+  a1:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a2:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a3:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a4:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a5:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a6:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a7:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a8:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a9:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a10:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a11:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a12:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a13:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a14:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a15:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a16:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a17:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a18:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a19:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a20:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a21:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a22:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a23:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a24:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a25:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a26:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a27:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a28:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a29:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a30:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a31:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a32:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a33:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a34:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a35:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a36:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a37:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a38:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a39:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  a40:
+    title:        Vietnam’s Skyscraper Keangnam to Drive Hanoi Rents to 5-Year Low
+    url:          http://www.bloomberg.com/news/2012-02-28/vietnam-tallest-skyscraper-keangnam-to-drive-hanoi-rents-to-five-year-low.html
+    sumarry:      Vietnam’s Keangnam Hanoi Landmark Tower, the tallest in Southeast Asia after Petronas Towers, is boosting prime office space in the capital Hanoi by half and threatening to drive rents to a five-year low.
+  

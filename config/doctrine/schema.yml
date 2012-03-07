@@ -1,0 +1,15 @@
+XArticle:
+  actAs: { Timestampable: ~ }
+  columns:
+    paper_id:     { type: integer}
+    title:        { type: string(1000), notnull: true}
+    url:          { type: string(255), notnull: true }
+    sumarry:      { type: string(4000) }
+  relations:
+    XPaper: { local: paper_id, foreign: id, foreignAlias: XArticles } 
+
+XPaper:
+  actAs: { Timestampable: ~ }
+  columns:
+    name:        { type: string(200), notnull: true  }
+    avatarpath:  { type: string(200) }
